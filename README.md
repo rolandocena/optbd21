@@ -7,4 +7,4 @@ Sensores: picamera y buzzer
 Integrantes
 - Mauricio Morales
 - Nelson Rodrigo Melo
-- Rolando Cena
+- Rolando A Cena P
